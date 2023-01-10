@@ -1,4 +1,4 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/PedroDev3/Angular--Pagination) ![GitHub last commit](https://img.shields.io/github/last-commit/PedroDev3/Angular--Pagination) ![GitHub language count](https://img.shields.io/github/languages/count/PedroDev3/Angular--Pagination) ![GitHub top language](https://img.shields.io/github/languages/top/PedroDev3/Angular--Pagination)
+![GitHub last commit](https://img.shields.io/github/last-commit/PedroDev3/Angular--Pagination) ![GitHub language count](https://img.shields.io/github/languages/count/PedroDev3/Angular--Pagination) ![GitHub top language](https://img.shields.io/github/languages/top/PedroDev3/Angular--Pagination)
 
 # Pagination
 
