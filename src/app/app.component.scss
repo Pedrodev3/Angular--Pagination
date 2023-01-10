@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  min-width: 60vw;
+  .table {
+    width: 100%;
+    border: solid 2px #151515;
+    thead {
+      border-bottom: solid 2px #151515;
+    }
+    tbody {
+      td {
+        border-right: solid 2px #adb5bd;
+        padding: .4rem .6rem;
+      }
+    }
+  }
+  .pagination {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 2px #0A647C;
+  }
+}
